@@ -14,7 +14,7 @@ This module can renew the form.secret config parameter. This parameter is used f
 Add it in your main thelia composer.json file
 
 ```
-composer require thelia/token-renew-module:~1.0
+composer require thelia/token-renew-module:~2.0
 ```
 
 ## Usage
